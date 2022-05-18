@@ -13,7 +13,7 @@ terraform {
     organization = "corals-larrymie-dev"
 
     workspaces {
-      name = "PBL-project-19"
+      name = "terraform-cloud"
     }
   }
 }
